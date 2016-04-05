@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "gulp-util": "^3.0.4",
-    "svgo": "^0.6.1"
+    "svgo": "^0.6.4"
   },
   "devDependencies": {
     "ava": "^0.13.0",
